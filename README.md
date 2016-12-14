@@ -7,7 +7,7 @@ Now let's write simple bot!
 
 ```js
 'use strict'
-const FBMB = require('./fbmessenger-node-bot'),
+const FBMB = require('fbmessenger-node-bot'),
     FBMessenger = FBMB.FBMessenger,
     FBMessengerBaseController = FBMB.FBMessengerBaseController
     TextCommand = FBMB.TextCommand;
