@@ -11,8 +11,8 @@ Now let's write simple bot!
 'use strict'
 const FBMB = require('fbmessenger-node-bot'),
     FBMessenger = FBMB.FBMessenger,
-    FBMessengerBaseController = FBMB.FBMessengerBaseController
-    TextCommand = FBMB.TextCommand;
+    FBMessengerBaseController = FBMB.FBMessengerBaseController,
+    TextCommand = FBMB.TextCommand
 
 let fb = new FBMessenger(config.get('fb.PAGE_ACCESS_TOKEN'), { 
     webhook: config.get('fb.webhook'),
