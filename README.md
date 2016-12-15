@@ -1,5 +1,5 @@
 # fbmessenger-node-bot
-Based on https://github.com/Naltox/telegram-node-bot 
+Arhitecture based on https://github.com/Naltox/telegram-node-bot 
 
 Very powerful module for creating Facebook Messenger bots.
 
