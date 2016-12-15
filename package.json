@@ -25,6 +25,7 @@
   "homepage": "https://github.com/betonimig/fbmessenger-node-bot#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "request": "^2.79.0"
   }
 }
